@@ -12,6 +12,8 @@
 
 </div>
 
+<img src="https://piggo5.oss-cn-shenzhen.aliyuncs.com/2026/CleanShot%202025-12-23%20at%2014.24.34.gif" width="400" alt="项目演示">
+
 ---
 
 ## 项目简介
@@ -63,6 +65,8 @@ npx serve .
 ```
 
 然后在浏览器中访问 `http://localhost:8000`
+
+![](https://piggo5.oss-cn-shenzhen.aliyuncs.com/2026/iShot_2025-12-23_16.06.50.png)
 
 ---
 
